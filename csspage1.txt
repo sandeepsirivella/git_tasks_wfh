@@ -7,6 +7,8 @@ h1 {
   text-align: center;
 }
 
+
+#for merge conflict in main
 p {
   font-family: verdana;
   font-size: 20px;
